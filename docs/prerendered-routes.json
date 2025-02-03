@@ -1,0 +1,6 @@
+{
+  "routes": {
+    "/sample1": {},
+    "/sample1/home": {}
+  }
+}
